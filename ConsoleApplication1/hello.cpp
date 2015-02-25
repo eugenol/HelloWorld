@@ -9,7 +9,6 @@ int main() {
 	std::cout << "Please enter your name: ";
 	std::cin >> myName;
 	std::cout << "Hello, "<< myName << std::endl;
-
-	std::cout << "Goodnight" << std::endl;
+	std::cout << "Goodbye" << std::endl;
 	return 0;
 }
